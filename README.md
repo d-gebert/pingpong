@@ -2,6 +2,11 @@
 
 A simple program to count 5' overlaps in small RNA read datasets.
 
+## Installation
+
+Binaries ('compiled' Perl code) are provided for Linux and macOS.<br />
+Just download the respective binary for your operating system and run the program.
+
 ## Usage
 
 ```
