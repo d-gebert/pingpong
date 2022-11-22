@@ -6,7 +6,7 @@ A simple program to count 5' overlaps in small RNA read datasets.
 
 The 'ping pong signature', i.e. a disproportionate rate of 10 nucleotide long 5' overlaps of 
 sense and antisense sequences, is a key characteristic of piRNAs, which is due to 
-their specific secondary biogenesis mechanism. This freature can be analyzed and 
+their specific secondary biogenesis mechanism. This feature can be analyzed and 
 visualized as shown below with *pingpong*.
 
 ```
