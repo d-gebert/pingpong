@@ -43,8 +43,14 @@ Just download the respective binary for your operating system and run the progra
 ```
 
 The input for *pingpong* is a SAM file, which may be generated with *bowtie*, mapping small RNA reads to a genome or other sequences.
+
+## Output
+
+The output of *pingpong* is a simple two-column table with overlap length [nt] and the corresponding number of read pairs.
+
+Additionally, *pingpong* calculates a z-score, which is printed to the STDERR.
  
- ## Contact
- Daniel Gebert<br />
- University of Cambridge, Department of Genetics<br />
- email: dg572@cam.ac.uk
+## Contact
+Daniel Gebert<br />
+University of Cambridge, Department of Genetics<br />
+email: dg572@cam.ac.uk
