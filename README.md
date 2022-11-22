@@ -12,6 +12,6 @@ A simple program to count 5' overlaps in small RNA read datasets.
 ```
  
  ## Contact
- Daniel Gebert
- University of Cambridge, Department of Genetics
+ Daniel Gebert<br />
+ University of Cambridge, Department of Genetics<br />
  email: dg572@cam.ac.uk
