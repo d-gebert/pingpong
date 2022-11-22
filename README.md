@@ -1,5 +1,7 @@
 # pingpong
 
+A simple program to count 5' overlaps of small RNA reads.
+
 Usage: ./pingpong -i input.sam
 
  -i [file]      Input map file in SAM format
