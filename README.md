@@ -32,7 +32,11 @@ Number of read pairs per overlap length [nt]
 
 Binaries ('compiled' Perl code) are provided for Linux and macOS.<br />
 Just download the respective binary for your operating system and run the program.<br />
-However, it might be possible to change permissions first, e.g. with: chmod 777 pingpong
+However, it might be possible to change permissions first, e.g. with:
+
+```
+chmod 777 pingpong
+```
 
 ## Usage
 
