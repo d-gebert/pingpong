@@ -41,6 +41,8 @@ Just download the respective binary for your operating system and run the progra
  -i [file]      Input map file in SAM format
  -o [file]      Output file (optional)
 ```
+
+The input for *pingpong* is a SAM file, which may be generated with *bowtie*, mapping small RNA reads to a genome or other sequences.
  
  ## Contact
  Daniel Gebert<br />
