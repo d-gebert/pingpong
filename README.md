@@ -2,6 +2,32 @@
 
 A simple program to count 5' overlaps in small RNA read datasets.
 
+## Application
+
+The 'ping pong signature', i.e. a high rate of 10 nucleotide long 5' overlaps of 
+sense and antisense sequences, is a key characteristic of piRNAs, which is due to 
+their specific secondary biogenesis mechanism. This freature can be analyzed and 
+visualized as shown below with *pingpong*.
+
+```
+Number of read pairs per overlap length [nt]
+
+                           || 
+                           || 
+                           || 
+                           || 
+                           || 
+                           || 
+                           ||  
+                           ||  
+                           ||  
+                        || ||       ||
+      || ||    || || || || || ||    || ||    || ||         
+|| || || || || || || || || || || || || || || || || || ||   
+------------------------------------------------------------
+ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20
+```
+
 ## Installation
 
 Binaries ('compiled' Perl code) are provided for Linux and macOS.<br />
