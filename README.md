@@ -1,6 +1,6 @@
 # pingpong
 
-A simple program to count 5' overlaps of small RNA reads.
+A simple program to count 5' overlaps in small RNA read datasets.
 
 ## Usage
 
